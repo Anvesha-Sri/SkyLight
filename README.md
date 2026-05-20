@@ -1,6 +1,6 @@
 # 🌤️ SkyLight - Live Weather Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-✨_Try_Now-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-✨_Try_Now-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://anvesha-sri.github.io/SkyLight/) 
 [![OpenWeatherMap](https://img.shields.io/badge/API-OpenWeatherMap-ff7e00?style=for-the-badge&logo=openweathermap&logoColor=white)](https://openweathermap.org/)
 
 A beautiful, modern weather web application that provides real-time weather updates with **immersive dynamic background videos** that automatically change according to the current weather condition.
