@@ -75,14 +75,14 @@ searchBtn.onclick = function() {
                 lon: data.coord.lon
             };
             let weatherImages ={
-                cloud: ".github/cloud.png",
-                haze: ".github/haze.png",
-                rain: ".github/rain.png",
-                snow: ".github/snow.png",
-                sun: ".github/sun.png",
-                thunderstorm: ".github/rain.png",
-                mist: ".github/haze.png",
-                fog: ".github/haze.png",
+                cloud: "assets/cloud.png", 
+                haze: "assets/haze.png",
+                rain: "assets/rain.png",
+                snow: "assets/snow.png",
+                sun: "assets/sun.png",
+                thunderstorm: "assets/rain.png",
+                mist: "assets/haze.png",
+                fog: "assets/haze.png",
             };
             let weatherImageSrc = weatherImages[weatherCondition] || "./assets/intro.png";
             weather.innerHTML = `
