@@ -89,6 +89,9 @@ SkyLight/
 
 ##
 
+## Demo Video 
+[![Watch the video](https://github.com/Anvesha-Sri/SkyLight/blob/6d8b276cd33bb4a33546b1b46e0e57292639a058/assets/live-demo)](https://github.com/Anvesha-Sri/SkyLight/blob/6d8b276cd33bb4a33546b1b46e0e57292639a058/videos/live-weather%20(1).mp4)
+
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
